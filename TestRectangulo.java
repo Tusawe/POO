@@ -2,7 +2,7 @@ public class TestRectangulo {
 	
 	public static void main(String[] args) {
 	
-		// creamos un bojeto Circulo.
+		// creamos un objeto Circulo.
 		Rectangulo r1 = new Rectangulo();
 		Rectangulo r2 = new Rectangulo();
 		
