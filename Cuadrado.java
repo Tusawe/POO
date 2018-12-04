@@ -5,6 +5,13 @@ public class Cuadrado {
 	
 	// constructor
 	// para crear cuadrados dado el lado.
+	
+	public Cuadrado () {
+	
+		lado = 1;
+	
+	}
+	
 	public Cuadrado (int lado) {
 		
 		this.lado = lado;
